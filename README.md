@@ -31,7 +31,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>   
 
-    <a href="https://www.r.org" rel="noreferrer"> 
+    <a href="https://r-lang.com/" rel="noreferrer"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" width="52" alt="r logo"  /> </a>
    
   <a href="https://www.numpy.org" rel="noreferrer"> 
@@ -40,7 +40,7 @@
   <a href="https://www.sympy.org" rel="noreferrer"> 
   <img src="https://www.sympy.org/static/images/logo.png" height="40" width="52" alt="sympy logo"  /> </a>
   
-    <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" rel="noreferrer"> 
+    <a href="https://www.java.com/en/" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  /> </a> 
   
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
