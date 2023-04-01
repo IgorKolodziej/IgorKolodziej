@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Igor</h1>
 <h3 align="center">Data Science student at Warsaw University of Technology</h3>
-<h4 align="center">Hi there! 👋 I’m a data science student at Politechnika Warszawska, where I learn how to extract insights from data and build intelligent solutions. I’m passionate about data science as well as business, mathematics and technology. 🚀 I love to explore new datasets, tools and techniques, and share my findings with others. 📊 I’m always looking for new challenges and opportunities to learn and grow as a data scientist. 💯 Here you can find some of my projects and experiments that showcase my skills and interests. 🤖 Feel free to check them out and let me know what you think! 😊</h4>
+<h4 align="center">I’m passionate about data science as well as business, mathematics and technology. 🚀 I love to explore new datasets, tools and techniques, and share my findings with others. 📊 I’m always looking for new challenges and opportunities to learn and grow as a data scientist. 💯 Here you can find some of my projects and experiments that showcase my skills and interests. 🤖 Feel free to check them out and let me know what you think! 😊</h4>
 
 - 🌱 I’m currently learning **Tensorflow, Sklearn, Postgres**
 
