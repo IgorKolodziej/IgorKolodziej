@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Tensorflow, Sklearn, Postgres**
 
-- 📫 How to reach me **kolodziej.igor@outlook.com**
+- 📫 How to reach me **igor.kolodziej@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,7 +37,10 @@
   
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-        
+  
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+<img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="tensorflow" width="40" height="40"/> </a> 
+ 
 <a href="https://r-lang.com/" rel="noreferrer"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" width="52" alt="r logo"  /> </a>
   
