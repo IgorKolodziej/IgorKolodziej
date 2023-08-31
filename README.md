@@ -1,6 +1,9 @@
-![MasterHead](https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif)
+<p align="center">
+  <img src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif?raw=true" alt="ai_head"/>
+</p>
 
-<h1 align="center">Hi 👋, I'm Igor</h1>
+
+<h1 align="center">Hi, I'm Igor <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> </h1>
 <h3 align="center">Data Science student at Warsaw University of Technology</h3>
 <h4 align="center">I’m passionate about data science as well as business, mathematics and technology. 🚀 I love to explore new datasets, tools and techniques, and share my findings with others. 📊 I’m always looking for new challenges and opportunities to learn and grow as a data scientist. 💯 Here you can find some of my projects and experiments that showcase my skills and interests. 🤖 Feel free to check them out and let me know what you think! 😊</h4>
 
@@ -8,51 +11,52 @@
 
 - 📫 How to reach me **igor.kolodziej@proton.me**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/igorkolodziej" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igorkolodziej" height="30" width="40" /></a>
-<a href="https://instagram.com/igor_kolodziej_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="igor_kolodziej_" height="30" width="40" /></a>
-</p>
+<h3 align="center"> <b>Connect with me: </b>
+<br/><br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>   
+<a href="https://linkedin.com/in/igorkolodziej" target="blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+<a href="https://instagram.com/igor_kolodziej_" target="blank"> ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
- 
-<a href="https://www.numpy.org" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="numpy logo"  /> </a>
-  
-<a href="https://www.sympy.org" rel="noreferrer"> 
-<img src="https://www.sympy.org/static/images/logo.png" height="40" width="52" alt="sympy logo"  /> </a>
-  
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-  
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-  
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-<img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="tensorflow" width="40" height="40"/> </a> 
- 
-<a href="https://r-lang.com/" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" width="52" alt="r logo"  /> </a>
-  
-<a href="https://www.java.com/en/" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  /> </a> 
-  
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+</h3>
+<h3 align="center"><b> Tech stack </b></h3>
 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-<img src="https://th.bing.com/th/id/R.08260e63a1c453f82f5ec1b37e2e6243?rik=D1%2bXU8aEWRyEuA&pid=ImgRaw&r=0" alt="bash" width="52" height="40"/> </a>
+<h4 align="center"> Languages
+<br/><br/>
+  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  </p>
+</h4>
+
+<h4 align="center"> Data science 
+<br/><br/>
+
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</h4>
+
+<h4 align="center"> Web
+<br/><br/>
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</h4>
+
+<h4 align="center"> Other
+<br/><br/>
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Shell](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/sap-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+
+</h4>
