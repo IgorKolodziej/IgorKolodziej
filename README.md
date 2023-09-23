@@ -1,25 +1,20 @@
+<h1 align="center"> Hi, I'm Igor <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px"> </h1>
 
-<!---
-<p align="center">
-  <img src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif?raw=true" alt="ai_head" width="200" />
-</p>
--->
-
-<h1 align="center">Hi, I'm Igor <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> </h1>
-<h3 align="center">Data Science student at Warsaw University of Technology</h3>
+<h3 align="center"> Data Science student at Warsaw University of Technology </h3>
 <h4 align="center">I’m passionate about data science as well as business, mathematics and technology. 🚀 I love to explore new datasets, tools and techniques, and share my findings with others. 📊 I’m always looking for new challenges and opportunities to learn and grow as a data scientist. 💯 Here you can find some of my projects and experiments that showcase my skills and interests. 🤖 Feel free to check them out and let me know what you think! 😊</h4>
 
 - 🌱 I’m currently learning **Tensorflow, Sklearn, Postgres**
 
 - 📫 How to reach me **igor.kolodziej@proton.me**
 
-<h3 align="center"> <b>Connect with me: </b>
+<h3 align="center"> <b> Connect with me: </b> 
 <br/><br/>
 
-<a href="https://linkedin.com/in/igorkolodziej" target="blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
-<a href="https://instagram.com/igor_kolodziej_" target="blank"> ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
+<a href="https://linkedin.com/in/igorkolodziej" target="_blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+<a href="https://instagram.com/igor_kolodziej_" target="_blank"> ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
 
 </h3>
+
 <h3 align="center"><b> Tech stack </b></h3>
 
 <h4 align="center"> Languages
