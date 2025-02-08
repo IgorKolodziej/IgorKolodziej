@@ -21,9 +21,3 @@ I know Python, R, Java, SQL, and a bit of Dutch.
   **[igorkolodziej.com](https://igorkolodziej.com/)**
 </div>
 </div>
-
----
-
-
-
-
