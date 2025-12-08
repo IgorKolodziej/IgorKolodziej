@@ -1,23 +1,24 @@
-<div align="center">
-  
-# Hi, I'm Igor! 👋
-</div>
+# Igor Kołodziej
 
-<div align="left">
+Data Science & Machine Learning student at the Faculty of Mathematics and Information Science, Warsaw University of Technology.
 
-### 🚀 About Me
-I’m a Data Science undergraduate at Warsaw University of Technology, passionate about solving complex data challenges and building impactful machine learning models. As the President of WUT's [Data Science Club](https://www.facebook.com/kolonaukowedatascience), I foster innovation and lead events to inspire data-driven solutions.
+I work on statistical modeling, missing data in surveys, and machine learning projects.
 
-### 🔭 Languages
-I know Python, R, Java, SQL, and a bit of Dutch.
+**Selected work**
 
-### 📬 Let's Connect
+- **NMAR (R package)** – Estimation under nonignorable nonresponse in sample surveys  
+  Repo: https://github.com/ncn-foreigners/NMAR
 
-**Contact:** `igor (dot) kolodziej (at) proton (dot) me`
-<div align="center">
+- **Mamut** – AutoML toolkit for tabular classification in Python  
+  Docs: https://mamut.readthedocs.io/en/latest/notebooks/walkthrough.html
 
-<a href="https://www.linkedin.com/in/igorkolodziej/">LinkedIn</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/igor_kolodziej_/">Instagram</a>
-  
-  **[igorkolodziej.com](https://igorkolodziej.com/)**
-</div>
-</div>
+- **DermNet** – Clustering dermatological images with DINOv2  
+  Repo: https://github.com/IgorKolodziej/DermNet
+
+- **DoomRL** – Deep reinforcement learning agents for ViZDoom (PPO/A2C)  
+  Repo: https://github.com/IgorKolodziej/DoomRL
+
+- **QuantumRAG** – Grover-based retrieval-augmented generation (Qiskit + LLMs)  
+  Repo: https://github.com/IgorKolodziej/QuantumRAG
+
+More: https://igorkolodziej.com/
