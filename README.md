@@ -5,7 +5,7 @@ Final-year Data Science student (Warsaw University of Technology).
 ### Selected work
 
 - **[NMAR](https://github.com/ncn-foreigners/NMAR)** (R package, CRAN)  
-  *Estimation under nonignorable nonresponse (surveys).* [CRAN](https://cran.r-project.org/web/packages/NMAR/)
+  *Estimation under nonignorable nonresponse (surveys).* [CRAN](https://cran.r-project.org/web/packages/NMAR/) · [Docs](https://ncn-foreigners.ue.poznan.pl/NMAR/)
 
 - **[Mamut](https://github.com/przybytniowskaj/Mamut)** (Python package, PyPI)  
   *AutoML toolkit for tabular classification.* [PyPI](https://pypi.org/project/mamut/) · [Docs](https://mamut.readthedocs.io/en/latest/notebooks/walkthrough.html)
