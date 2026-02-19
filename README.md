@@ -1,6 +1,6 @@
 # Igor Kołodziej
 
-BSc Data Science (Engineering) &middot; MSc Data Science student, Warsaw University of Technology
+BSc Data Science (Engineering) graduate &middot; MSc Data Science student &middot; Warsaw University of Technology
 
 ### Selected work
 
