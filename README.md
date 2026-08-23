@@ -1,28 +1,30 @@
 # Igor Kołodziej
 
-BSc Data Science (Engineering) graduate &middot; MSc Data Science student &middot; Warsaw University of Technology
+Software engineer working across backend systems, statistical computing, and machine-learning tools.  
+MSc Data Science student at Warsaw University of Technology.
 
 ### Selected work
 
+- **[Payment Event Processing Pipeline](https://github.com/IgorKolodziej/payment-event-pipeline)**  
+  *Scala 3 streaming backend for deterministic replay, PostgreSQL enrichment, eligibility and risk decisions, and idempotent MongoDB persistence.*
+
 - **[NMAR](https://github.com/ncn-foreigners/NMAR)** (R package, CRAN)  
-  *Estimation under nonignorable nonresponse in sample surveys.* [CRAN](https://cran.r-project.org/web/packages/NMAR/) · [Docs](https://ncn-foreigners.ue.poznan.pl/NMAR/)
+  *Statistical software for estimation under nonignorable nonresponse.* [CRAN](https://cran.r-project.org/web/packages/NMAR/) · [Docs](https://ncn-foreigners.ue.poznan.pl/NMAR/)
 
 - **[Mamut](https://github.com/przybytniowskaj/Mamut)** (Python package, PyPI)  
-  *AutoML toolkit for tabular classification.* [PyPI](https://pypi.org/project/mamut/) · [Docs](https://mamut.readthedocs.io/en/latest/notebooks/walkthrough.html)
+  *Toolkit for transparent tabular-classification workflows, model search, evaluation, and reporting.* [PyPI](https://pypi.org/project/mamut/) · [Docs](https://mamut.readthedocs.io/en/latest/notebooks/walkthrough.html)
 
-- **[Payment Event Pipeline](https://github.com/IgorKolodziej/payment-event-pipeline)**  
-  *Scala 3 streaming backend for deterministic event replay, PostgreSQL enrichment, explainable risk decisions, and idempotent MongoDB persistence.*
-
-- **[Aegis AI](https://github.com/Iwaniukooo11/gcp-aegis-ai)**  
-  *GCP SRE/ChatOps prototype for cross-project incident detection, Slack alerts, metric-backed Q&A, and BigQuery audit trails.*
+- **[Aegis](https://github.com/Iwaniukooo11/gcp-aegis-ai)**  
+  *GCP prototype for cross-project incident detection, alerting, contextual follow-up, and auditable incident storage.*
 
 ### More
-- **[Real-Time Finance Pipeline](https://github.com/IgorKolodziej/BigDataFinancePipeline)** - *Dockerized big-data stack (NiFi/Kafka → HDFS → Spark → Hive → HBase).*
-- **[QuantumRAG](https://github.com/IgorKolodziej/QuantumRAG)** - *Grover-based context selection and evaluation on SQuAD 1.1.*
-- **[DermNet](https://github.com/IgorKolodziej/DermNet)** - *Unsupervised clustering with DINOv2 embeddings.*
+
+- **[Real-Time Finance Pipeline](https://github.com/IgorKolodziej/BigDataFinancePipeline)** - *Crypto & FX data pipeline with Kafka, HDFS, Spark, Hive, and HBase.*
+- **[DermNet](https://github.com/IgorKolodziej/DermNet)** - *Image clustering with DINOv2 embeddings, UMAP, and agglomerative clustering.*
 - **[DoomRL](https://github.com/IgorKolodziej/DoomRL)** - *PPO/A2C agents for ViZDoom.*
 
 ---
+
 <p align="center">
   <a href="https://igorkolodziej.com/">igorkolodziej.com</a>
 </p>
